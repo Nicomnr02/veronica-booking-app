@@ -1,0 +1,6 @@
+server:
+    hc:
+      tls: false
+      host: localhost
+      port: 5001
+          

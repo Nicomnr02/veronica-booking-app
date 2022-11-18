@@ -1,0 +1,4 @@
+client:
+    rest:
+      masterdata:
+        url: "http://localhost:5000"
